@@ -27,9 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## ✒️ Authors
 
-👤 **Cecilia Benitez**
-
-- [@Ceci007](https://github.com/Ceci007)
+👤 **Unicorn Dad**
 
 
 ## 🤝 Contributing
